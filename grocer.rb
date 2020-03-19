@@ -15,7 +15,7 @@ end
   # Consult README for inputs and outputs
 
 def consolidate_cart(cart)
-
+  
 
 end 
   # Consult README for inputs and outputs

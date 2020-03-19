@@ -15,7 +15,17 @@ end
   # Consult README for inputs and outputs
 
 def consolidate_cart(cart)
-  
+  new = []
+  i = 0 
+  while i < cart.length do 
+    
+    if cart[i][:item] == cart[i][:item]
+      cart[i][:count] = 1 
+    end 
+    new << cart
+  i += 1 
+  end 
+ print new.uniq
 
 end 
   # Consult README for inputs and outputs
